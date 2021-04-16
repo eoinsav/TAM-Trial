@@ -1,6 +1,6 @@
 # Turn it Around site migration and redesign
 
-Turn it Around is in its fifth year and they offer resources around bullying for teachers and counselors, mainly in middle and high-schools. They try to work directly with these teachers and counselors to educate them on what to do when kids are being bullied.
+Turn it Around offers resources around bullying for teachers and counselors, mainly in middle and high-schools. They try to work directly with these teachers and counselors to educate them on what to do when kids are being bullied.
 
 # Project Goals
 This project will redesign the current Turn it Around website to allow the organization to expand its reach and to offer more granular resources for counselors and students in daycares, community centers, schools, and college campuses.
