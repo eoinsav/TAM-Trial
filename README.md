@@ -14,4 +14,4 @@ The second phase will add a booking system for online and in-person courses. We 
 
 # Timeline
 
-The first phase of this project will launch on October 25th and the second phase will launch roughly three weeks later on Nov. 12th.
+The first phase of this project will launch on October 25th and the second phase will launch roughly three weeks later on November 12th.
